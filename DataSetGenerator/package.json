@@ -1,0 +1,14 @@
+{
+  "name": "NeuroLangGenerator",
+  "version": "0.0.1",
+  "main": "MainGenerator.js",
+  "repository": "https://github.com/akatsnelson/NeuroLangDataGenerator",
+  "author": "AKatsnelson",
+  "scripts": {
+    "start": "npm ."
+  },
+  "dependencies": {
+    "json2csv": "^4.3.5"
+  },
+  "license": "MIT"
+}
