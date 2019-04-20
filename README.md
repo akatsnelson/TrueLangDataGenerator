@@ -1,4 +1,4 @@
-# NeuroLangDataGenerator
+# TrueLangDataGenerator
 
 В папке DataSetGenerator в файле MainGenerator.js содержится функции для работы с корпусом.
 
